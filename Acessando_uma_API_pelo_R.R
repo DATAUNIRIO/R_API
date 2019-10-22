@@ -10,7 +10,6 @@
 ##---------------------------------------------------------------##
 
 
-#
 #http://www.transparencia.gov.br/swagger-ui.html#!/Servidores32do32Poder32Executivo32Federal/servidoresUsingGET
 #http://www.transparencia.gov.br/swagger-ui.html#!/Servidores32do32Poder32Executivo32Federal/servidorUsingGET
 
